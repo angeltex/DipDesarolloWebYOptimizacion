@@ -1,11 +1,12 @@
 <html>
 
 <head>
-    <title></title>
+    <title>Mi pagina web</title>
 </head>
 
 <body>
     <h1>Index</h1>
+    <p>Esta es el index</p>
 </body>
 
 </html>
